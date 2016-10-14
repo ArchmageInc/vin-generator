@@ -1,0 +1,20 @@
+{
+  "name": "vin-generator",
+  "main": "vin-generator.js",
+  "version": "1.0.0",
+  "description": "A javascript library to generate random Vehicle Identification Numbers (VIN)s.",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArchmageInc/vin-generator.git"
+  },
+  "author": "ArchmageInc",
+  "files": [
+    "vin-generator.js",
+    "prefixes.js"
+  ],
+  "dependencies": {
+    "lodash": "^4.16.4"
+  },
+  "license": "MIT"
+}
