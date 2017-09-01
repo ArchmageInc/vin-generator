@@ -1,7 +1,7 @@
 {
   "name": "vin-generator",
   "main": "vin-generator.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A javascript library to generate random Vehicle Identification Numbers (VIN)s.",
   "private": false,
   "repository": {
